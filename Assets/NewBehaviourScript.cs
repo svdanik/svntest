@@ -13,6 +13,6 @@ public class NewBehaviourScript : MonoBehaviour {
 	void Update () {
 		print("test");
         // danik
-	
+	dfsdf
 	}
 }
